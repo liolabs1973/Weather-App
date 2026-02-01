@@ -1,0 +1,3178 @@
+[
+    {
+        "datetime":"2026-02-01",
+        "temp":6.4,
+        "precip":1.5,
+        "windgust":38.5,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-31",
+        "temp":7.3,
+        "precip":0.347,
+        "windgust":36.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-30",
+        "temp":4.4,
+        "precip":1.939,
+        "windgust":41.9,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-29",
+        "temp":3.6,
+        "precip":0.2,
+        "windgust":36.3,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-28",
+        "temp":4.3,
+        "precip":0.161,
+        "windgust":17.7,
+        "conditions":"Snow, Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-27",
+        "temp":5.0,
+        "precip":10.82,
+        "windgust":43.7,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2026-01-26",
+        "temp":1.9,
+        "precip":0.058,
+        "windgust":18.5,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-25",
+        "temp":2.7,
+        "precip":0.137,
+        "windgust":30.6,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-24",
+        "temp":4.9,
+        "precip":0.075,
+        "windgust":34.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-23",
+        "temp":6.5,
+        "precip":0.173,
+        "windgust":41.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-22",
+        "temp":6.5,
+        "precip":0.0,
+        "windgust":42.8,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-21",
+        "temp":6.4,
+        "precip":0.452,
+        "windgust":46.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-20",
+        "temp":2.8,
+        "precip":0.046,
+        "windgust":38.7,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-19",
+        "temp":3.6,
+        "precip":0.0,
+        "windgust":29.6,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-18",
+        "temp":7.2,
+        "precip":0.0,
+        "windgust":35.1,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-17",
+        "temp":8.6,
+        "precip":1.349,
+        "windgust":20.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-16",
+        "temp":8.6,
+        "precip":0.291,
+        "windgust":58.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-15",
+        "temp":9.5,
+        "precip":0.478,
+        "windgust":52.2,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-14",
+        "temp":8.5,
+        "precip":1.676,
+        "windgust":30.1,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-13",
+        "temp":9.3,
+        "precip":0.023,
+        "windgust":34.9,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-12",
+        "temp":6.1,
+        "precip":2.649,
+        "windgust":59.6,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-11",
+        "temp":-0.5,
+        "precip":0.251,
+        "windgust":55.6,
+        "conditions":"Snow, Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-10",
+        "temp":-0.2,
+        "precip":3.462,
+        "windgust":46.5,
+        "conditions":"Snow, Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-09",
+        "temp":3.9,
+        "precip":10.972,
+        "windgust":90.6,
+        "conditions":"Snow, Rain, Overcast",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2026-01-08",
+        "temp":2.3,
+        "precip":5.751,
+        "windgust":43.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2026-01-07",
+        "temp":-0.9,
+        "precip":0.148,
+        "windgust":56.9,
+        "conditions":"Snow, Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-06",
+        "temp":-2.8,
+        "precip":0.439,
+        "windgust":31.6,
+        "conditions":"Snow, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-05",
+        "temp":-3.0,
+        "precip":0.784,
+        "windgust":33.3,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-04",
+        "temp":-2.1,
+        "precip":0.109,
+        "windgust":29.5,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-03",
+        "temp":-0.1,
+        "precip":0.251,
+        "windgust":40.6,
+        "conditions":"Snow, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-02",
+        "temp":1.6,
+        "precip":0.797,
+        "windgust":39.0,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2026-01-01",
+        "temp":2.7,
+        "precip":0.031,
+        "windgust":44.3,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-31",
+        "temp":0.1,
+        "precip":0.313,
+        "windgust":23.5,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-30",
+        "temp":1.6,
+        "precip":0.098,
+        "windgust":28.2,
+        "conditions":"Snow, Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-29",
+        "temp":0.0,
+        "precip":0.098,
+        "windgust":26.4,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-28",
+        "temp":2.7,
+        "precip":0.0,
+        "windgust":35.1,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-27",
+        "temp":0.3,
+        "precip":0.173,
+        "windgust":37.0,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-26",
+        "temp":-2.2,
+        "precip":0.0,
+        "windgust":28.4,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-25",
+        "temp":-2.4,
+        "precip":0.0,
+        "windgust":57.4,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-24",
+        "temp":1.7,
+        "precip":0.0,
+        "windgust":62.7,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-23",
+        "temp":3.3,
+        "precip":0.098,
+        "windgust":45.2,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-22",
+        "temp":6.3,
+        "precip":0.0,
+        "windgust":22.5,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-21",
+        "temp":9.6,
+        "precip":0.054,
+        "windgust":25.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-20",
+        "temp":5.1,
+        "precip":1.34,
+        "windgust":21.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-19",
+        "temp":9.3,
+        "precip":4.997,
+        "windgust":47.2,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-18",
+        "temp":9.9,
+        "precip":0.023,
+        "windgust":57.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-17",
+        "temp":7.6,
+        "precip":0.0,
+        "windgust":35.2,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-16",
+        "temp":9.7,
+        "precip":0.21,
+        "windgust":33.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-15",
+        "temp":6.7,
+        "precip":0.0,
+        "windgust":46.7,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-14",
+        "temp":6.7,
+        "precip":0.023,
+        "windgust":35.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-13",
+        "temp":8.4,
+        "precip":0.075,
+        "windgust":21.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-12",
+        "temp":9.3,
+        "precip":0.529,
+        "windgust":30.1,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-11",
+        "temp":6.9,
+        "precip":0.121,
+        "windgust":38.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-10",
+        "temp":11.5,
+        "precip":0.0,
+        "windgust":34.7,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-09",
+        "temp":11.9,
+        "precip":0.106,
+        "windgust":43.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-08",
+        "temp":13.0,
+        "precip":4.124,
+        "windgust":40.6,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-07",
+        "temp":11.1,
+        "precip":4.927,
+        "windgust":49.8,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-06",
+        "temp":8.6,
+        "precip":2.02,
+        "windgust":62.9,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-05",
+        "temp":3.7,
+        "precip":0.371,
+        "windgust":53.3,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-04",
+        "temp":5.9,
+        "precip":0.546,
+        "windgust":47.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-03",
+        "temp":7.1,
+        "precip":0.0,
+        "windgust":24.4,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-02",
+        "temp":7.0,
+        "precip":0.0,
+        "windgust":54.0,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-12-01",
+        "temp":4.2,
+        "precip":0.224,
+        "windgust":54.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-30",
+        "temp":5.4,
+        "precip":0.098,
+        "windgust":33.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-29",
+        "temp":8.8,
+        "precip":5.03,
+        "windgust":43.7,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-11-28",
+        "temp":8.0,
+        "precip":4.669,
+        "windgust":36.6,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-27",
+        "temp":4.7,
+        "precip":0.928,
+        "windgust":40.2,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-26",
+        "temp":3.5,
+        "precip":0.337,
+        "windgust":20.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-25",
+        "temp":5.0,
+        "precip":1.262,
+        "windgust":37.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-24",
+        "temp":6.3,
+        "precip":6.834,
+        "windgust":36.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-11-23",
+        "temp":1.4,
+        "precip":1.109,
+        "windgust":53.9,
+        "conditions":"Snow, Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-22",
+        "temp":-1.9,
+        "precip":0.023,
+        "windgust":42.4,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-21",
+        "temp":1.0,
+        "precip":3.203,
+        "windgust":24.0,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-20",
+        "temp":1.3,
+        "precip":6.704,
+        "windgust":35.5,
+        "conditions":"Snow, Rain, Overcast",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-11-19",
+        "temp":4.7,
+        "precip":10.093,
+        "windgust":47.9,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-11-18",
+        "temp":1.9,
+        "precip":1.108,
+        "windgust":35.6,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-17",
+        "temp":4.4,
+        "precip":1.246,
+        "windgust":49.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-16",
+        "temp":9.3,
+        "precip":2.497,
+        "windgust":36.5,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-15",
+        "temp":13.2,
+        "precip":11.256,
+        "windgust":30.9,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-11-14",
+        "temp":14.7,
+        "precip":0.278,
+        "windgust":31.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-13",
+        "temp":14.0,
+        "precip":0.0,
+        "windgust":36.6,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-12",
+        "temp":11.5,
+        "precip":0.0,
+        "windgust":38.0,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-11",
+        "temp":10.5,
+        "precip":0.098,
+        "windgust":42.2,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-10",
+        "temp":9.2,
+        "precip":3.748,
+        "windgust":40.4,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-09",
+        "temp":9.0,
+        "precip":0.077,
+        "windgust":26.2,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-08",
+        "temp":10.4,
+        "precip":0.439,
+        "windgust":21.2,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-07",
+        "temp":11.0,
+        "precip":0.098,
+        "windgust":30.4,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-06",
+        "temp":12.1,
+        "precip":0.0,
+        "windgust":30.4,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-05",
+        "temp":13.1,
+        "precip":0.0,
+        "windgust":38.1,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-04",
+        "temp":12.8,
+        "precip":0.0,
+        "windgust":43.3,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-03",
+        "temp":9.4,
+        "precip":0.023,
+        "windgust":44.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-02",
+        "temp":10.1,
+        "precip":0.526,
+        "windgust":51.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-11-01",
+        "temp":12.2,
+        "precip":5.664,
+        "windgust":51.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-10-31",
+        "temp":10.8,
+        "precip":0.0,
+        "windgust":41.7,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-30",
+        "temp":9.7,
+        "precip":0.514,
+        "windgust":40.2,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-29",
+        "temp":11.7,
+        "precip":4.707,
+        "windgust":33.5,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-28",
+        "temp":11.2,
+        "precip":2.521,
+        "windgust":48.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-27",
+        "temp":10.0,
+        "precip":3.307,
+        "windgust":58.3,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-26",
+        "temp":7.0,
+        "precip":0.287,
+        "windgust":46.9,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-25",
+        "temp":9.3,
+        "precip":3.542,
+        "windgust":59.2,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-24",
+        "temp":8.1,
+        "precip":3.866,
+        "windgust":55.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-23",
+        "temp":11.4,
+        "precip":20.596,
+        "windgust":93.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-10-22",
+        "temp":12.8,
+        "precip":0.888,
+        "windgust":37.4,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-21",
+        "temp":13.3,
+        "precip":6.958,
+        "windgust":59.2,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-10-20",
+        "temp":14.4,
+        "precip":5.069,
+        "windgust":51.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-10-19",
+        "temp":11.0,
+        "precip":0.76,
+        "windgust":43.1,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-18",
+        "temp":12.0,
+        "precip":0.0,
+        "windgust":29.0,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-17",
+        "temp":12.6,
+        "precip":0.0,
+        "windgust":22.1,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-16",
+        "temp":12.4,
+        "precip":0.18,
+        "windgust":25.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-15",
+        "temp":12.1,
+        "precip":0.0,
+        "windgust":21.4,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-14",
+        "temp":12.5,
+        "precip":0.0,
+        "windgust":27.3,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-13",
+        "temp":14.0,
+        "precip":0.078,
+        "windgust":26.8,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-12",
+        "temp":13.0,
+        "precip":0.0,
+        "windgust":27.0,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-11",
+        "temp":14.0,
+        "precip":0.0,
+        "windgust":22.7,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-10",
+        "temp":12.9,
+        "precip":0.0,
+        "windgust":13.4,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-09",
+        "temp":13.0,
+        "precip":0.07,
+        "windgust":22.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-08",
+        "temp":14.1,
+        "precip":0.0,
+        "windgust":17.0,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-07",
+        "temp":13.5,
+        "precip":0.0,
+        "windgust":19.0,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-06",
+        "temp":12.0,
+        "precip":0.0,
+        "windgust":31.1,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-05",
+        "temp":11.8,
+        "precip":0.075,
+        "windgust":53.2,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-04",
+        "temp":13.6,
+        "precip":7.888,
+        "windgust":79.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-10-03",
+        "temp":11.9,
+        "precip":3.07,
+        "windgust":47.0,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-02",
+        "temp":12.5,
+        "precip":0.0,
+        "windgust":26.2,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-10-01",
+        "temp":11.5,
+        "precip":0.129,
+        "windgust":18.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-30",
+        "temp":13.2,
+        "precip":0.075,
+        "windgust":25.2,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-29",
+        "temp":13.0,
+        "precip":0.023,
+        "windgust":23.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-28",
+        "temp":12.1,
+        "precip":0.098,
+        "windgust":21.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-27",
+        "temp":11.0,
+        "precip":0.248,
+        "windgust":21.0,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-26",
+        "temp":11.0,
+        "precip":0.0,
+        "windgust":22.7,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-25",
+        "temp":10.3,
+        "precip":0.225,
+        "windgust":33.9,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-24",
+        "temp":11.1,
+        "precip":2.933,
+        "windgust":39.2,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-23",
+        "temp":12.4,
+        "precip":0.479,
+        "windgust":40.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-22",
+        "temp":11.8,
+        "precip":0.075,
+        "windgust":47.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-21",
+        "temp":14.1,
+        "precip":5.237,
+        "windgust":35.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-09-20",
+        "temp":20.2,
+        "precip":1.443,
+        "windgust":41.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-19",
+        "temp":19.6,
+        "precip":0.121,
+        "windgust":36.2,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-18",
+        "temp":16.9,
+        "precip":0.0,
+        "windgust":31.9,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-17",
+        "temp":15.0,
+        "precip":0.075,
+        "windgust":43.2,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-16",
+        "temp":14.4,
+        "precip":1.197,
+        "windgust":53.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-15",
+        "temp":16.9,
+        "precip":1.249,
+        "windgust":67.0,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-09-14",
+        "temp":14.3,
+        "precip":8.009,
+        "windgust":42.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-09-13",
+        "temp":13.9,
+        "precip":7.221,
+        "windgust":55.0,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-09-12",
+        "temp":14.6,
+        "precip":0.604,
+        "windgust":46.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-11",
+        "temp":15.0,
+        "precip":8.891,
+        "windgust":55.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-09-10",
+        "temp":16.2,
+        "precip":0.647,
+        "windgust":45.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-09",
+        "temp":16.4,
+        "precip":0.0,
+        "windgust":27.6,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-08",
+        "temp":19.9,
+        "precip":0.023,
+        "windgust":24.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-07",
+        "temp":21.0,
+        "precip":0.0,
+        "windgust":40.0,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-06",
+        "temp":16.9,
+        "precip":0.075,
+        "windgust":36.0,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-05",
+        "temp":15.9,
+        "precip":0.106,
+        "windgust":33.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-04",
+        "temp":17.5,
+        "precip":0.204,
+        "windgust":53.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-03",
+        "temp":18.8,
+        "precip":1.384,
+        "windgust":71.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-09-02",
+        "temp":15.5,
+        "precip":1.069,
+        "windgust":47.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-09-01",
+        "temp":17.6,
+        "precip":2.965,
+        "windgust":46.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-31",
+        "temp":18.4,
+        "precip":1.39,
+        "windgust":42.2,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-30",
+        "temp":17.0,
+        "precip":0.153,
+        "windgust":41.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-29",
+        "temp":15.9,
+        "precip":3.494,
+        "windgust":46.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-28",
+        "temp":18.8,
+        "precip":0.0,
+        "windgust":40.6,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-27",
+        "temp":19.6,
+        "precip":4.715,
+        "windgust":36.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-26",
+        "temp":20.6,
+        "precip":0.0,
+        "windgust":35.6,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-25",
+        "temp":17.8,
+        "precip":0.0,
+        "windgust":22.1,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-24",
+        "temp":14.9,
+        "precip":0.006,
+        "windgust":25.3,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-23",
+        "temp":15.2,
+        "precip":0.005,
+        "windgust":28.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-22",
+        "temp":15.1,
+        "precip":0.0,
+        "windgust":23.5,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-21",
+        "temp":17.5,
+        "precip":0.062,
+        "windgust":42.0,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-20",
+        "temp":18.4,
+        "precip":0.013,
+        "windgust":34.2,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-19",
+        "temp":21.0,
+        "precip":0.029,
+        "windgust":25.5,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-18",
+        "temp":19.8,
+        "precip":0.024,
+        "windgust":31.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-17",
+        "temp":17.6,
+        "precip":0.0,
+        "windgust":34.1,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-16",
+        "temp":19.1,
+        "precip":0.0,
+        "windgust":34.3,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-15",
+        "temp":21.6,
+        "precip":0.016,
+        "windgust":33.2,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-14",
+        "temp":24.7,
+        "precip":0.152,
+        "windgust":24.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-13",
+        "temp":24.2,
+        "precip":0.024,
+        "windgust":23.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-12",
+        "temp":24.0,
+        "precip":0.0,
+        "windgust":27.0,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-11",
+        "temp":21.2,
+        "precip":0.0,
+        "windgust":27.4,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-10",
+        "temp":18.6,
+        "precip":0.01,
+        "windgust":21.3,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-09",
+        "temp":18.3,
+        "precip":0.0,
+        "windgust":31.4,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-08",
+        "temp":19.3,
+        "precip":0.0,
+        "windgust":28.2,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-07",
+        "temp":19.4,
+        "precip":0.0,
+        "windgust":32.7,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-06",
+        "temp":16.8,
+        "precip":0.249,
+        "windgust":20.8,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-05",
+        "temp":18.2,
+        "precip":1.023,
+        "windgust":48.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-04",
+        "temp":20.7,
+        "precip":0.317,
+        "windgust":41.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-03",
+        "temp":16.8,
+        "precip":1.236,
+        "windgust":38.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-02",
+        "temp":15.4,
+        "precip":2.036,
+        "windgust":36.0,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-08-01",
+        "temp":18.1,
+        "precip":3.3,
+        "windgust":35.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-31",
+        "temp":18.0,
+        "precip":1.383,
+        "windgust":33.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-30",
+        "temp":17.3,
+        "precip":1.907,
+        "windgust":31.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-29",
+        "temp":16.7,
+        "precip":1.782,
+        "windgust":43.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-28",
+        "temp":17.2,
+        "precip":0.691,
+        "windgust":34.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-27",
+        "temp":17.9,
+        "precip":0.922,
+        "windgust":30.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-26",
+        "temp":19.5,
+        "precip":0.025,
+        "windgust":33.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-25",
+        "temp":19.2,
+        "precip":0.586,
+        "windgust":30.2,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-24",
+        "temp":17.8,
+        "precip":1.734,
+        "windgust":23.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-23",
+        "temp":17.9,
+        "precip":5.321,
+        "windgust":29.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-07-22",
+        "temp":17.5,
+        "precip":2.722,
+        "windgust":43.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-21",
+        "temp":17.7,
+        "precip":3.495,
+        "windgust":52.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-20",
+        "temp":19.4,
+        "precip":3.039,
+        "windgust":36.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-19",
+        "temp":22.7,
+        "precip":0.048,
+        "windgust":49.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-18",
+        "temp":22.5,
+        "precip":0.024,
+        "windgust":20.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-17",
+        "temp":18.9,
+        "precip":0.0,
+        "windgust":31.2,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-16",
+        "temp":18.5,
+        "precip":0.011,
+        "windgust":44.2,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-15",
+        "temp":18.2,
+        "precip":0.021,
+        "windgust":43.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-14",
+        "temp":20.6,
+        "precip":0.116,
+        "windgust":42.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-13",
+        "temp":19.7,
+        "precip":0.029,
+        "windgust":28.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-12",
+        "temp":20.1,
+        "precip":0.0,
+        "windgust":29.4,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-11",
+        "temp":20.2,
+        "precip":0.024,
+        "windgust":30.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-10",
+        "temp":19.7,
+        "precip":0.0,
+        "windgust":29.4,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-09",
+        "temp":17.4,
+        "precip":0.112,
+        "windgust":28.9,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-08",
+        "temp":15.0,
+        "precip":2.567,
+        "windgust":38.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-07",
+        "temp":16.2,
+        "precip":9.652,
+        "windgust":47.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-07-06",
+        "temp":16.6,
+        "precip":5.909,
+        "windgust":39.3,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-07-05",
+        "temp":18.7,
+        "precip":0.02,
+        "windgust":46.0,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-04",
+        "temp":18.1,
+        "precip":0.0,
+        "windgust":25.5,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-03",
+        "temp":18.3,
+        "precip":0.24,
+        "windgust":33.0,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-02",
+        "temp":24.5,
+        "precip":0.049,
+        "windgust":56.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-07-01",
+        "temp":28.7,
+        "precip":0.0,
+        "windgust":29.1,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-30",
+        "temp":25.2,
+        "precip":0.0,
+        "windgust":25.2,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-29",
+        "temp":21.6,
+        "precip":0.024,
+        "windgust":25.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-28",
+        "temp":20.7,
+        "precip":0.249,
+        "windgust":34.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-27",
+        "temp":19.0,
+        "precip":1.811,
+        "windgust":33.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-26",
+        "temp":20.1,
+        "precip":6.376,
+        "windgust":58.3,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-06-25",
+        "temp":22.8,
+        "precip":0.005,
+        "windgust":23.9,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-24",
+        "temp":17.8,
+        "precip":0.07,
+        "windgust":43.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-23",
+        "temp":18.6,
+        "precip":0.047,
+        "windgust":59.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-22",
+        "temp":22.7,
+        "precip":0.01,
+        "windgust":36.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-21",
+        "temp":23.8,
+        "precip":0.0,
+        "windgust":27.0,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-20",
+        "temp":21.4,
+        "precip":0.0,
+        "windgust":32.8,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-19",
+        "temp":21.0,
+        "precip":0.024,
+        "windgust":34.2,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-18",
+        "temp":20.1,
+        "precip":0.0,
+        "windgust":28.1,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-17",
+        "temp":20.2,
+        "precip":0.029,
+        "windgust":23.1,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-16",
+        "temp":18.2,
+        "precip":0.0,
+        "windgust":26.3,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-15",
+        "temp":18.3,
+        "precip":0.0,
+        "windgust":36.0,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-14",
+        "temp":21.9,
+        "precip":0.28,
+        "windgust":56.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-13",
+        "temp":24.5,
+        "precip":0.02,
+        "windgust":22.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-12",
+        "temp":21.5,
+        "precip":0.0,
+        "windgust":35.8,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-11",
+        "temp":17.3,
+        "precip":0.0,
+        "windgust":29.2,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-10",
+        "temp":14.9,
+        "precip":0.005,
+        "windgust":38.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-09",
+        "temp":13.8,
+        "precip":0.024,
+        "windgust":26.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-08",
+        "temp":13.5,
+        "precip":4.257,
+        "windgust":52.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-07",
+        "temp":14.2,
+        "precip":3.547,
+        "windgust":48.8,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-06",
+        "temp":15.5,
+        "precip":3.111,
+        "windgust":42.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-05",
+        "temp":14.5,
+        "precip":2.676,
+        "windgust":49.3,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-04",
+        "temp":15.7,
+        "precip":0.247,
+        "windgust":32.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-03",
+        "temp":16.7,
+        "precip":0.015,
+        "windgust":49.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-02",
+        "temp":15.0,
+        "precip":0.0,
+        "windgust":34.2,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-06-01",
+        "temp":16.9,
+        "precip":0.0,
+        "windgust":33.6,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-31",
+        "temp":21.1,
+        "precip":0.024,
+        "windgust":29.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-30",
+        "temp":19.6,
+        "precip":0.0,
+        "windgust":31.0,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-29",
+        "temp":15.0,
+        "precip":1.123,
+        "windgust":38.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-28",
+        "temp":15.6,
+        "precip":4.89,
+        "windgust":50.6,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-27",
+        "temp":14.0,
+        "precip":2.246,
+        "windgust":49.2,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-26",
+        "temp":13.8,
+        "precip":0.136,
+        "windgust":40.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-25",
+        "temp":15.9,
+        "precip":1.332,
+        "windgust":53.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-24",
+        "temp":11.7,
+        "precip":1.514,
+        "windgust":45.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-23",
+        "temp":9.8,
+        "precip":0.031,
+        "windgust":35.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-22",
+        "temp":11.2,
+        "precip":0.006,
+        "windgust":33.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-21",
+        "temp":12.7,
+        "precip":0.426,
+        "windgust":39.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-20",
+        "temp":16.5,
+        "precip":0.005,
+        "windgust":38.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-19",
+        "temp":14.7,
+        "precip":0.029,
+        "windgust":36.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-18",
+        "temp":11.6,
+        "precip":0.006,
+        "windgust":21.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-17",
+        "temp":13.7,
+        "precip":0.0,
+        "windgust":35.9,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-16",
+        "temp":12.1,
+        "precip":0.02,
+        "windgust":38.1,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-15",
+        "temp":12.3,
+        "precip":0.0,
+        "windgust":34.0,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-14",
+        "temp":16.5,
+        "precip":0.0,
+        "windgust":38.5,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-13",
+        "temp":17.1,
+        "precip":0.237,
+        "windgust":25.1,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-12",
+        "temp":16.6,
+        "precip":0.326,
+        "windgust":31.0,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-11",
+        "temp":17.6,
+        "precip":0.0,
+        "windgust":37.0,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-10",
+        "temp":15.3,
+        "precip":0.005,
+        "windgust":38.4,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-09",
+        "temp":13.3,
+        "precip":0.0,
+        "windgust":38.0,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-08",
+        "temp":12.7,
+        "precip":0.0,
+        "windgust":38.8,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-07",
+        "temp":11.1,
+        "precip":0.0,
+        "windgust":35.1,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-06",
+        "temp":10.4,
+        "precip":0.0,
+        "windgust":40.4,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-05",
+        "temp":9.1,
+        "precip":0.0,
+        "windgust":37.0,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-04",
+        "temp":10.1,
+        "precip":0.449,
+        "windgust":41.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-03",
+        "temp":14.4,
+        "precip":0.977,
+        "windgust":31.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-02",
+        "temp":20.2,
+        "precip":0.0,
+        "windgust":27.5,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-05-01",
+        "temp":19.5,
+        "precip":0.0,
+        "windgust":25.1,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-30",
+        "temp":18.1,
+        "precip":0.0,
+        "windgust":23.9,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-29",
+        "temp":16.4,
+        "precip":0.0,
+        "windgust":29.9,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-28",
+        "temp":15.1,
+        "precip":0.0,
+        "windgust":25.5,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-27",
+        "temp":14.4,
+        "precip":0.0,
+        "windgust":27.0,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-26",
+        "temp":11.5,
+        "precip":0.024,
+        "windgust":32.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-25",
+        "temp":11.1,
+        "precip":0.91,
+        "windgust":28.2,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-24",
+        "temp":10.0,
+        "precip":1.483,
+        "windgust":38.4,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-23",
+        "temp":9.8,
+        "precip":1.169,
+        "windgust":34.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-22",
+        "temp":12.0,
+        "precip":0.029,
+        "windgust":27.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-21",
+        "temp":11.1,
+        "precip":0.184,
+        "windgust":27.0,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-20",
+        "temp":10.5,
+        "precip":0.488,
+        "windgust":28.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-19",
+        "temp":11.7,
+        "precip":0.0,
+        "windgust":34.8,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-18",
+        "temp":10.5,
+        "precip":0.0,
+        "windgust":27.2,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-17",
+        "temp":9.0,
+        "precip":0.14,
+        "windgust":21.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-16",
+        "temp":10.0,
+        "precip":0.011,
+        "windgust":26.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-15",
+        "temp":14.1,
+        "precip":0.069,
+        "windgust":42.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-14",
+        "temp":12.6,
+        "precip":0.337,
+        "windgust":32.0,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-13",
+        "temp":12.7,
+        "precip":1.685,
+        "windgust":44.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-12",
+        "temp":15.1,
+        "precip":0.015,
+        "windgust":47.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-11",
+        "temp":10.1,
+        "precip":0.024,
+        "windgust":23.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-10",
+        "temp":8.7,
+        "precip":0.0,
+        "windgust":31.8,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-09",
+        "temp":9.4,
+        "precip":0.0,
+        "windgust":35.5,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-08",
+        "temp":10.0,
+        "precip":0.0,
+        "windgust":31.5,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-07",
+        "temp":8.0,
+        "precip":0.0,
+        "windgust":34.4,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-06",
+        "temp":10.0,
+        "precip":0.0,
+        "windgust":39.4,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-05",
+        "temp":13.8,
+        "precip":0.0,
+        "windgust":37.2,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-04",
+        "temp":15.0,
+        "precip":0.0,
+        "windgust":34.6,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-03",
+        "temp":14.3,
+        "precip":0.0,
+        "windgust":32.0,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-02",
+        "temp":11.4,
+        "precip":0.01,
+        "windgust":55.7,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-04-01",
+        "temp":8.4,
+        "precip":0.0,
+        "windgust":53.0,
+        "conditions":"Clear",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-31",
+        "temp":8.6,
+        "precip":0.0,
+        "windgust":33.1,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-30",
+        "temp":9.5,
+        "precip":0.025,
+        "windgust":41.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-29",
+        "temp":8.3,
+        "precip":0.354,
+        "windgust":34.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-28",
+        "temp":7.1,
+        "precip":0.457,
+        "windgust":30.2,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-27",
+        "temp":7.6,
+        "precip":0.046,
+        "windgust":17.8,
+        "conditions":"Rain",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-26",
+        "temp":8.3,
+        "precip":0.114,
+        "windgust":29.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-25",
+        "temp":8.4,
+        "precip":0.042,
+        "windgust":29.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-24",
+        "temp":10.2,
+        "precip":0.0,
+        "windgust":27.2,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-23",
+        "temp":11.4,
+        "precip":0.04,
+        "windgust":33.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-22",
+        "temp":14.5,
+        "precip":0.261,
+        "windgust":36.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-21",
+        "temp":13.2,
+        "precip":0.0,
+        "windgust":48.5,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-20",
+        "temp":11.0,
+        "precip":0.0,
+        "windgust":26.8,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-19",
+        "temp":9.4,
+        "precip":0.0,
+        "windgust":44.7,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-18",
+        "temp":5.4,
+        "precip":0.0,
+        "windgust":32.9,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-17",
+        "temp":4.1,
+        "precip":0.0,
+        "windgust":38.5,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-16",
+        "temp":4.0,
+        "precip":0.0,
+        "windgust":44.5,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-15",
+        "temp":2.5,
+        "precip":0.025,
+        "windgust":47.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-14",
+        "temp":3.2,
+        "precip":0.0,
+        "windgust":29.3,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-13",
+        "temp":2.7,
+        "precip":0.033,
+        "windgust":28.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-12",
+        "temp":3.7,
+        "precip":0.112,
+        "windgust":27.8,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-11",
+        "temp":6.4,
+        "precip":0.075,
+        "windgust":28.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-10",
+        "temp":9.7,
+        "precip":0.05,
+        "windgust":20.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-09",
+        "temp":11.5,
+        "precip":0.0,
+        "windgust":27.2,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-08",
+        "temp":11.7,
+        "precip":0.0,
+        "windgust":38.4,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-07",
+        "temp":11.2,
+        "precip":0.0,
+        "windgust":40.2,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-06",
+        "temp":9.8,
+        "precip":0.0,
+        "windgust":38.8,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-05",
+        "temp":7.1,
+        "precip":0.021,
+        "windgust":24.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-04",
+        "temp":5.2,
+        "precip":0.0,
+        "windgust":18.7,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-03",
+        "temp":3.8,
+        "precip":0.046,
+        "windgust":21.2,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-02",
+        "temp":3.2,
+        "precip":0.025,
+        "windgust":26.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-03-01",
+        "temp":2.7,
+        "precip":0.046,
+        "windgust":35.2,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-28",
+        "temp":5.2,
+        "precip":0.789,
+        "windgust":34.5,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-27",
+        "temp":5.0,
+        "precip":0.916,
+        "windgust":41.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-26",
+        "temp":6.4,
+        "precip":1.69,
+        "windgust":46.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-25",
+        "temp":8.9,
+        "precip":3.277,
+        "windgust":38.9,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-24",
+        "temp":10.6,
+        "precip":0.192,
+        "windgust":49.2,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-23",
+        "temp":9.4,
+        "precip":0.334,
+        "windgust":43.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-22",
+        "temp":10.5,
+        "precip":0.57,
+        "windgust":44.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-21",
+        "temp":13.4,
+        "precip":0.05,
+        "windgust":50.3,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-20",
+        "temp":8.4,
+        "precip":0.0,
+        "windgust":36.3,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-19",
+        "temp":3.0,
+        "precip":0.0,
+        "windgust":35.1,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-18",
+        "temp":0.2,
+        "precip":0.0,
+        "windgust":28.9,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-17",
+        "temp":-0.3,
+        "precip":0.0,
+        "windgust":23.1,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-16",
+        "temp":0.3,
+        "precip":0.066,
+        "windgust":32.8,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-15",
+        "temp":0.1,
+        "precip":0.025,
+        "windgust":24.1,
+        "conditions":"Snow, Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-14",
+        "temp":-0.6,
+        "precip":0.0,
+        "windgust":26.1,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-13",
+        "temp":1.9,
+        "precip":0.025,
+        "windgust":31.6,
+        "conditions":"Snow, Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-12",
+        "temp":3.6,
+        "precip":0.243,
+        "windgust":14.9,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-11",
+        "temp":3.2,
+        "precip":2.207,
+        "windgust":35.2,
+        "conditions":"Snow, Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-10",
+        "temp":2.9,
+        "precip":3.791,
+        "windgust":33.8,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-09",
+        "temp":4.5,
+        "precip":0.778,
+        "windgust":22.7,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-08",
+        "temp":5.7,
+        "precip":0.199,
+        "windgust":37.4,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-07",
+        "temp":3.5,
+        "precip":0.0,
+        "windgust":42.7,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-06",
+        "temp":3.7,
+        "precip":0.0,
+        "windgust":40.0,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-05",
+        "temp":2.7,
+        "precip":0.025,
+        "windgust":33.5,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-04",
+        "temp":0.4,
+        "precip":0.0,
+        "windgust":39.0,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-03",
+        "temp":0.8,
+        "precip":0.053,
+        "windgust":25.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-02",
+        "temp":0.4,
+        "precip":0.046,
+        "windgust":16.9,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-02-01",
+        "temp":1.2,
+        "precip":0.046,
+        "windgust":20.4,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-31",
+        "temp":2.6,
+        "precip":0.97,
+        "windgust":25.1,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-30",
+        "temp":5.2,
+        "precip":4.134,
+        "windgust":35.0,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-29",
+        "temp":7.1,
+        "precip":2.117,
+        "windgust":50.7,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-28",
+        "temp":7.7,
+        "precip":0.518,
+        "windgust":60.4,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-27",
+        "temp":9.3,
+        "precip":1.31,
+        "windgust":70.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-01-26",
+        "temp":3.8,
+        "precip":4.091,
+        "windgust":64.0,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-25",
+        "temp":7.2,
+        "precip":5.885,
+        "windgust":50.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-01-24",
+        "temp":7.3,
+        "precip":3.509,
+        "windgust":66.5,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-01-23",
+        "temp":4.7,
+        "precip":5.839,
+        "windgust":55.9,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-01-22",
+        "temp":3.9,
+        "precip":9.183,
+        "windgust":30.7,
+        "conditions":"Rain, Overcast",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-01-21",
+        "temp":0.0,
+        "precip":0.025,
+        "windgust":20.3,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-20",
+        "temp":-1.2,
+        "precip":0.0,
+        "windgust":24.7,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-19",
+        "temp":-1.7,
+        "precip":0.0,
+        "windgust":20.8,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-18",
+        "temp":-1.0,
+        "precip":0.0,
+        "windgust":22.2,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-17",
+        "temp":0.0,
+        "precip":0.0,
+        "windgust":13.3,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-16",
+        "temp":3.1,
+        "precip":0.0,
+        "windgust":18.9,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-15",
+        "temp":2.8,
+        "precip":0.162,
+        "windgust":12.8,
+        "conditions":"Snow, Rain, Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-14",
+        "temp":-1.3,
+        "precip":0.053,
+        "windgust":20.5,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-13",
+        "temp":-0.3,
+        "precip":0.0,
+        "windgust":15.6,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-12",
+        "temp":0.6,
+        "precip":0.0,
+        "windgust":16.9,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-11",
+        "temp":-1.2,
+        "precip":0.0,
+        "windgust":15.9,
+        "conditions":"Overcast",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-10",
+        "temp":-1.2,
+        "precip":1.188,
+        "windgust":20.5,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-09",
+        "temp":0.5,
+        "precip":4.446,
+        "windgust":45.2,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-08",
+        "temp":1.3,
+        "precip":3.457,
+        "windgust":36.9,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-07",
+        "temp":3.3,
+        "precip":1.953,
+        "windgust":59.5,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-06",
+        "temp":8.7,
+        "precip":4.671,
+        "windgust":92.6,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    },
+    {
+        "datetime":"2025-01-05",
+        "temp":7.1,
+        "precip":2.565,
+        "windgust":59.9,
+        "conditions":"Snow, Rain, Freezing Drizzle\/Freezing Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-04",
+        "temp":0.4,
+        "precip":0.0,
+        "windgust":29.9,
+        "conditions":"Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-03",
+        "temp":0.4,
+        "precip":1.188,
+        "windgust":31.4,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-02",
+        "temp":3.1,
+        "precip":4.05,
+        "windgust":37.7,
+        "conditions":"Snow, Rain, Partially cloudy",
+        "Alerte_Intemperie":"NON"
+    },
+    {
+        "datetime":"2025-01-01",
+        "temp":6.4,
+        "precip":0.733,
+        "windgust":76.1,
+        "conditions":"Rain, Partially cloudy",
+        "Alerte_Intemperie":"OUI"
+    }
+]
